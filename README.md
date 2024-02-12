@@ -33,4 +33,4 @@ The data table presents information across four unique tabs:
 4. **Studies**
 
 ## About Page:
-- Describes CCDI, C3DC, and various resources useful to C3DC users. The About page content is searchable through a global search feature
+Describes CCDI, C3DC, and various resources useful to C3DC users. The About page content is searchable through a global search feature
