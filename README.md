@@ -20,17 +20,17 @@ C3DC offers visualizations for six different data elements:
 
 1. **Study**
 2. **Diagnosis (ICD-O)**
-3. Age at Diagnosis (years)
-4. Race
-5. Ethnicity
-6. Anatomic Site
+3. **Age at Diagnosis (years)**
+4. **Race**
+5. **Ethnicity**
+6. **Anatomic Site**
 
-### #Data Table:
+#### Data Table:
 The data table presents information across four unique tabs:
-1. Participants
-2. Diagnosis
-3. Survival
-4. Studies
+1. **Participants**
+2. **Diagnosis**
+3. **Survival**
+4. **Studies**
 
 ## About Page:
 - Describes CCDI, C3DC, and various resources useful to C3DC users. The About page content is searchable through a global search feature
