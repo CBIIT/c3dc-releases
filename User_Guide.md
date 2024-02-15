@@ -28,7 +28,7 @@ This document describes a high-level view of the features C3DC. Investigators ar
 
 The C3DC Home page is where users can navigate to one of several pages, namely: the Explore and the About pages.
 
-![Figure 1: C3DC Home Page - top](URL) 
+![Figure 1: C3DC Home Page - top](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig1.jpg) 
 
 Additionally, the bottom of the Home page displays link-outs to brief descriptions of key sections of the C3DC website. 
 
