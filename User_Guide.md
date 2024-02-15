@@ -54,4 +54,4 @@ The faceted search results are automatically updated in the Stats bar, the Visua
 
 Users can navigate to the About Page by clicking the link on the Home Page menu bar where you will find more information about the content of C3DC, for example, dataset and data model information as well as links to useful resources.
 
-![Figure 8: About Page - top](URL)
+![Figure 8: About Page - top](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig8.jpg)
