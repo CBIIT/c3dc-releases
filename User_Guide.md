@@ -28,7 +28,7 @@ This document describes a high-level view of the features C3DC. Investigators ar
 
 The C3DC Home page is where users can navigate to one of several pages, namely: the Explore and the About pages.
 
-![Figure 1: C3DC Home Page - top](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig1.jpg) 
+![Figure 1: C3DC Home Page - top](images/Fig1.jpg) 
 
 Additionally, the bottom of the Home page displays link-outs to brief descriptions of key sections of the C3DC website. 
 
@@ -45,7 +45,7 @@ On the Explore Page, users can select a subset of the childhood cancer participa
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig4-A.png" alt="Image 1" style="width: 48%;">
   <div style="width: 4%;"></div> <!-- Adjust the gap between images -->
-  <img src="https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig4-B.png" alt="Image 2" style="width: 48%;">
+  <img src="https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig4-B_v2.png" alt="Image 2" style="width: 48%;">
 </div>
 The faceted search results are automatically updated in the Stats bar, the Visualization and Table sections.
 
