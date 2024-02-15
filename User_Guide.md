@@ -32,13 +32,13 @@ The C3DC Home page is where users can navigate to one of several pages, namely: 
 
 Additionally, the bottom of the Home page displays link-outs to brief descriptions of key sections of the C3DC website. 
 
-![Figure 2: C3DC Home Page - bottom](URL) 
+![Figure 2: C3DC Home Page - bottom](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig2.jpg) 
 
 ## C3DC Explore Page 
 
 Users can navigate to the Explore Page by clicking the link on the Home Page menu bar which shows various sections where the data can be explored. 
 
-![Figure 3:  The Explore page – Faceted Search (left), Data Tables (top) and Visualization (bottom)](URL) 
+![Figure 3:  The Explore page – Faceted Search (left), Data Tables (top) and Visualization (bottom)](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig3.jpg) 
 
 On the Explore Page, users can select a subset of the childhood cancer participants by choosing their filtering option from the drop-down lists within 4 main categories: Demographics, Diagnoses, Survival and Study. 
 
@@ -46,8 +46,9 @@ On the Explore Page, users can select a subset of the childhood cancer participa
 
 The faceted search results are automatically updated in the Stats bar, the Visualization and Table sections.
 
-![Figure 6:  Results returned from a faceted search in 6 graphs in the Visualization section](URL)
-![Figure 7: Results returned from a faceted search in the Table section](URL)
+![Figure 5:  Results returned from a faceted search in the Stats bar](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig5.jpg)
+![Figure 6:  Results returned from a faceted search in 6 graphs in the Visualization section](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig6.jpg)
+![Figure 7: Results returned from a faceted search in the Table section](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig7.jpg)
 
 ## C3DC About Page 
 
