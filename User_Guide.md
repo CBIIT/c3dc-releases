@@ -32,29 +32,27 @@ The C3DC Home page is where users can navigate to one of several pages, namely: 
 
 Additionally, the bottom of the Home page displays link-outs to brief descriptions of key sections of the C3DC website. 
 
-![Figure 2: C3DC Home Page - bottom](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig2.jpg) 
+![Figure 2: C3DC Home Page - bottom](images/Fig2.jpg) 
 
 ## C3DC Explore Page 
 
 Users can navigate to the Explore Page by clicking the link on the Home Page menu bar which shows various sections where the data can be explored. 
 
-![Figure 3:  The Explore page – Faceted Search (left), Data Tables (top) and Visualization (bottom)](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig3.jpg) 
+![Figure 3:  The Explore page – Faceted Search (left), Data Tables (top) and Visualization (bottom)](images/Fig3.jpg) 
 
 On the Explore Page, users can select a subset of the childhood cancer participants by choosing their filtering option from the drop-down lists within 4 main categories: Demographics, Diagnoses, Survival and Study. 
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig4-A.png" alt="Image 1" style="width: 48%;">
-  <div style="width: 4%;"></div> <!-- Adjust the gap between images -->
-  <img src="https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig4-B_v2.png" alt="Image 2" style="width: 48%;">
-</div>
+![Figure 4a: Faceted Search](images/Fig4-A.png)
+![Figure 4b: Faceted Search with selections made.](images/Fig4-B_v2.png)
+
 The faceted search results are automatically updated in the Stats bar, the Visualization and Table sections.
 
-![Figure 5:  Results returned from a faceted search in the Stats bar](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig5.jpg)
-![Figure 6:  Results returned from a faceted search in 6 graphs in the Visualization section](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig6.jpg)
-![Figure 7: Results returned from a faceted search in the Table section](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig7.jpg)
+![Figure 5:  Results returned from a faceted search in the Stats bar](images/Fig5.jpg)
+![Figure 6:  Results returned from a faceted search in 6 graphs in the Visualization section](images/Fig6.jpg)
+![Figure 7: Results returned from a faceted search in the Table section](images/Fig7.jpg)
 
 ## C3DC About Page 
 
 Users can navigate to the About Page by clicking the link on the Home Page menu bar where you will find more information about the content of C3DC, for example, dataset and data model information as well as links to useful resources.
 
-![Figure 8: About Page - top](https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig8.jpg)
+![Figure 8: About Page - top](images/Fig8.jpg)
