@@ -42,13 +42,10 @@ Users can navigate to the Explore Page by clicking the link on the Home Page men
 
 On the Explore Page, users can select a subset of the childhood cancer participants by choosing their filtering option from the drop-down lists within 4 main categories: Demographics, Diagnoses, Survival and Study. 
 
-<p align="center">
+<float="left">
   <a href="https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig4-A.jpg">
     <img src="Fig4-A.jpg" width="300" />
-  </a>
-</p>
-
-<p align="center">
+     </a>
   <a href="https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/fig4-B.jpg">
     <img src="fig4-B.jpg" width="300" />
   </a>
