@@ -1,5 +1,6 @@
 # The Childhood Cancer Clinical Data Commons (C3DC) 
- User Guid
+ User Guide
+ 
  Version 1.0.0
 
 ## Version
