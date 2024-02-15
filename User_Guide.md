@@ -27,14 +27,30 @@ This document describes a high-level view of the features C3DC. Investigators ar
 ## C3DC Home Page
 
 The C3DC Home page is where users can navigate to one of several pages, namely: the Explore and the About pages.
+
+![Figure 1: C3DC Home Page - top](URL) 
+
 Additionally, the bottom of the Home page displays link-outs to brief descriptions of key sections of the C3DC website. 
+
+![Figure 2: C3DC Home Page - bottom](URL) 
 
 ## C3DC Explore Page 
 
 Users can navigate to the Explore Page by clicking the link on the Home Page menu bar which shows various sections where the data can be explored. 
+
+![Figure 3:  The Explore page – Faceted Search (left), Data Tables (top) and Visualization (bottom)](URL) 
+
 On the Explore Page, users can select a subset of the childhood cancer participants by choosing their filtering option from the drop-down lists within 4 main categories: Demographics, Diagnoses, Survival and Study. 
-The faceted search results are automatically updated in the Stats bar, the Visualization and Table sections.  
+
+![Figure 4:  Performing a faceted search on the C3DC Explore Page](URL) 
+
+The faceted search results are automatically updated in the Stats bar, the Visualization and Table sections.
+
+![Figure 6:  Results returned from a faceted search in 6 graphs in the Visualization section](URL)
+![Figure 7: Results returned from a faceted search in the Table section](URL)
 
 ## C3DC About Page 
 
-Users can navigate to the About Page by clicking the link on the Home Page menu bar where you will find more information about the content of C3DC, for example, dataset and data model information as well as links to useful resources. 
+Users can navigate to the About Page by clicking the link on the Home Page menu bar where you will find more information about the content of C3DC, for example, dataset and data model information as well as links to useful resources.
+
+![Figure 8: About Page - top](URL)
