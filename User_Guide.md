@@ -10,13 +10,16 @@
 
 ## Table of Contents
 
-- [Introduction, Overview and C3DC Home Page](#introduction-overview-and-c3dc-home-page).........................3
-- [The Explore Page](#the-explore-page)..........................................................................5
-  - [Faceted Searching](#faceted-searching)...........................................................5
-  - [Statistics Bar](#statistics-bar).................................................................6
-    - [Chart Visualizations](#chart-visualizations)...................................................6
-    - [Table Visualizations](#table-visualizations)...................................................6
-- [The About Page](#the-about-page)............................................................................7
+- [The Childhood Cancer Clinical Data Commons (C3DC)](#the-childhood-cancer-clinical-data-commons-c3dc)
+  - [Version](#version)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction and Overview](#introduction-and-overview)
+  - [C3DC Home Page](#c3dc-home-page)
+  - [C3DC Explore Page](#c3dc-explore-page)
+    - [Faceted Searching](#faceted-searching)
+    - [Charts and Tables](#charts-and-tables)
+  - [C3DC About Page](#c3dc-about-page)
+
 
 ## Introduction and Overview
 
@@ -38,21 +41,22 @@ Additionally, the bottom of the Home page displays link-outs to brief descriptio
 
 Users can navigate to the Explore Page by clicking the link on the Home Page menu bar which shows various sections where the data can be explored. 
 
-![Figure 3:  The Explore page – Faceted Search (left), Data Tables (top) and Visualization (bottom)](images/Fig3.jpg) 
+![Figure 3:  The Explore page – Faceted Search (left), Data Tables (top) and Visualization (bottom)](images/Fig3.png) 
 
+### Faceted Searching
 On the Explore Page, users can select a subset of the childhood cancer participants by choosing their filtering option from the drop-down lists within 4 main categories: Demographics, Diagnoses, Survival and Study. 
 
 ![Figure 4a: Faceted Search](images/Fig4-A.png)
+
 ![Figure 4b: Faceted Search with selections made.](images/Fig4-B_v2.png)
 
+### Charts and Tables
 The faceted search results are automatically updated in the Stats bar, the Visualization and Table sections.
 
-![Figure 5:  Results returned from a faceted search in the Stats bar](images/Fig5.jpg)
-![Figure 6:  Results returned from a faceted search in 6 graphs in the Visualization section](images/Fig6.jpg)
-![Figure 7: Results returned from a faceted search in the Table section](images/Fig7.jpg)
+![Figure 5:  Results returned from a faceted search in the Stats bar, 6 graphs and table section](images/Fig5.png)
 
 ## C3DC About Page 
 
 Users can navigate to the About Page by clicking the link on the Home Page menu bar where you will find more information about the content of C3DC, for example, dataset and data model information as well as links to useful resources.
 
-![Figure 8: About Page - top](images/Fig8.jpg)
+![Figure 8: About Page - top](images/Fig6.png)
