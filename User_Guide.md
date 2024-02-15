@@ -9,7 +9,7 @@
 ## Table of Contents
 
 - [Introduction, Overview and C3DC Home Page](#introduction-overview-and-c3dc-home-page).........................3
-- [The Explore Page](#the-explore-page).................................................................5
+- [The Explore Page](#the-explore-page)..........................................................................5
   - [Faceted Searching](#faceted-searching)...........................................................5
   - [Statistics Bar](#statistics-bar).................................................................6
     - [Chart Visualizations](#chart-visualizations)...................................................6
