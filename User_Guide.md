@@ -43,9 +43,9 @@ Users can navigate to the Explore Page by clicking the link on the Home Page men
 On the Explore Page, users can select a subset of the childhood cancer participants by choosing their filtering option from the drop-down lists within 4 main categories: Demographics, Diagnoses, Survival and Study. 
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig4-A.jpg" alt="Image 1" style="width: 48%;">
+  <img src="https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig4-A.png" alt="Image 1" style="width: 48%;">
   <div style="width: 4%;"></div> <!-- Adjust the gap between images -->
-  <img src="https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/fig4-B.jpg" alt="Image 2" style="width: 48%;">
+  <img src="https://github.com/CBIIT/c3dc-releases/blob/User-Guide-Document/images/Fig4-B.png" alt="Image 2" style="width: 48%;">
 </div>
 The faceted search results are automatically updated in the Stats bar, the Visualization and Table sections.
 
