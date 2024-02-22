@@ -26,26 +26,26 @@
 
 The Childhood Cancer Clinical Data Commons (C3DC) enables searching demographic and phenotypic clinical data of childhood cancers. These data have been harmonized to a standard set of common data elements (CDEs). C3DC empowers researchers to search for participant-level data to create synthetic cohorts and export data for analysis.
 
-This document describes a high-level view of the features C3DC. Investigators are encouraged to explore C3DC for themselves using this guide as a primer.
+This document describes a high-level overview of the features of C3DC. Investigators are encouraged to explore C3DC for themselves, using this guide as a primer.
 
 ## C3DC Home Page
 
-The C3DC Home page is where users can navigate to one of several pages, namely: the Explore and the About pages.
+The C3DC Home page allows users users to navigate to pages such as Explore and the About pages.
 
 ![Figure 1: C3DC Home Page - top](images/Fig1.jpg) 
 
-Additionally, the bottom of the Home page displays link-outs to brief descriptions of key sections of the C3DC website. 
+Additionally, at the bottom of the Home page, there are link-outs to brief descriptions of key sections of the C3DC website. 
 
 ![Figure 2: C3DC Home Page - bottom](images/Fig2.jpg) 
 
 ## C3DC Explore Page 
 
-Users can navigate to the Explore Page by clicking the link on the Home Page menu bar which shows various sections where the data can be explored. 
+Users can navigate to the Explore Page by clicking the link on the Home Page menu bar, which shows various sections for exploring the data. 
 
-![Figure 3:  The Explore page – Faceted Search (left), Data Tables (top) and Visualization (bottom)](images/Fig3.png) 
+![Figure 3:  The Explore page – Faceted Search (left), Visualization (top) and Data Tables (bottom)](images/Fig3.png) 
 
 ### Faceted Searching
-On the Explore Page, users can select a subset of the childhood cancer participants by choosing their filtering option from the drop-down lists within 4 main categories: Demographics, Diagnoses, Survival and Study. 
+On the Explore Page, users can select a subset of the childhood cancer participants by choosing their filtering option from the drop-down lists within four main categories: Demographics, Diagnoses, Survival, and Study. 
 
 ![Figure 4a: Faceted Search](images/Fig4-A.png)
 
@@ -54,10 +54,10 @@ On the Explore Page, users can select a subset of the childhood cancer participa
 ### Charts and Tables
 The faceted search results are automatically updated in the Stats bar, the Visualization and Table sections.
 
-![Figure 5:  Results returned from a faceted search in the Stats bar, 6 graphs and table section](images/Fig5.png)
+![Figure 5:  Results returned from a faceted search in the Stats bar, six graphs and table section](images/Fig5.png)
 
 ## C3DC About Page 
 
-Users can navigate to the About Page by clicking the link on the Home Page menu bar where you will find more information about the content of C3DC, for example, dataset and data model information as well as links to useful resources.
+Users can navigate to the About Page by clicking the link on the Home Page menu bar where you will find more information about the content of C3DC. This includes details such as dataset and data model information, as well as links to useful resources.
 
 ![Figure 8: About Page - top](images/Fig6.png)
