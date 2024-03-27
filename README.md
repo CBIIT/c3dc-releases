@@ -1,10 +1,19 @@
 # Childhood Cancer Clinical Data Commons (C3DC) Release V1.0
 **Release Date: 02/29/2024**
 
-The initial release of C3DC includes two datasets:
+This release contains harmonized data from:
 
-1. **Molecular Characterization Initiative (MCI)**
-2. **TARGET Neuroblastoma**
+1. **phs000467:  TARGET Neuroblastoma**
+2. **phs001437: Pediatric Preclinical Testing Consortium PPTC**
+3. **phs002430: Genomic Analysis in Pediatric Malignancies**
+4. **phs002517: Molecular Characterization: Pediatric Brain Tumors & other Cancers**
+5. **phs002518: OncoKids Cancer Panel: Pediatric Cancers**
+6. **phs002504: Genomic Characterization: Juvenile Myelo Monocytic Leukemia**
+7. **phs002529: Comprehensive Genomic Sequencing: Pediatric Cancers**
+8. **phs002599: Genomic Landscape: Acute Myeloid Leukemia**
+9. **phs002620: Feasibility and Clinical Utility of Whole Genome Profiling in Pediatric and Young Adult Cancers**
+10. **phs002790: Molecular Characterization Initiative (MCI)**
+11. **phs003111: Molecular Characterization during Clonal Evolution: High-risk Neuroblastoma**
 
 ## Features:
 
