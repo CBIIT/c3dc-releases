@@ -28,7 +28,7 @@ Enables investigation of datasets and participant properties using faceted searc
 C3DC offers visualizations for six different data elements:
 
 1. **Study**
-2. **Diagnosis (ICD-O)**
+2. **Diagnosis**
 3. **Age at Diagnosis (years)**
 4. **Race**
 5. **Ethnicity**
