@@ -1,13 +1,13 @@
 # The Childhood Cancer Clinical Data Commons (C3DC) 
  User Guide
  
- Version 1.0.0
+ Version 2.0.0
 
 ## Version
 
 | Date       | Description       | Author    |
 |------------|-------------------|-----------|
-| 03/05/2024 | Initial Release   | C3DC Team |
+| 05/01/2024 | Release 2   | C3DC Team |
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ The C3DC Home page allows users users to navigate to pages such as Explore and t
 
 Additionally, at the bottom of the Home page, there are link-outs to brief descriptions of key sections of the C3DC website. 
 
-![Figure 2: C3DC Home Page - bottom](images/Fig2.jpg) 
+![Figure 2: C3DC Home Page - bottom](images/Home_Page_info_block_R2.png) 
 
 ## C3DC Explore Page 
 
