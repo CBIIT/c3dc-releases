@@ -7,6 +7,7 @@
 
 | Date       | Description       | Author    |
 |------------|-------------------|-----------|
+| 03/08/2024 | Initial Release | C3DC Team |
 | 05/01/2024 | Release 2   | C3DC Team |
 
 ## Table of Contents
