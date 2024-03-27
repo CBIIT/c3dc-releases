@@ -3,7 +3,7 @@
 
 This release contains harmonized data from:
 
-1. <a href="https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html">phs000467: TARGET Neuroblastoma</a>
+1. <a href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000467.v23.p8">phs000467: TARGET Neuroblastoma</a>
 2. phs001437: Pediatric Preclinical Testing Consortium PPTC
 3. phs002430: Genomic Analysis in Pediatric Malignancies
 4. phs002517: Molecular Characterization: Pediatric Brain Tumors & other Cancers**
