@@ -1,4 +1,4 @@
-# Childhood Cancer Clinical Data Commons (C3DC) Release V1.0
+# Childhood Cancer Clinical Data Commons (C3DC) Release 2
 **Release Date: 04/28/2024**
 
 This release contains harmonized data from:
