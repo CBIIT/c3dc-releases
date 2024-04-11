@@ -31,7 +31,7 @@ This document describes a high-level overview of the features of C3DC. Investiga
 
 ## C3DC Home Page
 
-The C3DC Home page allows users users to navigate to pages such as Explore and the About pages.
+The C3DC Home page allows users to navigate to pages such as Explore and the About pages.
 
 ![Figure 1: C3DC Home Page - top](images/Fig1.jpg) 
 
