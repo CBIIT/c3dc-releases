@@ -7,7 +7,7 @@ Version 2.0.0
 
 | Date       | Description       | Author    |
 |------------|-------------------|-----------|
-| 03/08/2024 | Initial Release   | C3DC Team | 
+| 02/29/2024 | Initial Release   | C3DC Team | 
 | 04/28/2024 |  Second Release   | C3DC Team |
 
 
