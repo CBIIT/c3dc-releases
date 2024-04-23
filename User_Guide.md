@@ -43,7 +43,7 @@ Additionally, at the bottom of the Home page, there are link-outs to brief descr
 
 Users can navigate to the Explore Page by clicking the link on the Home Page menu bar, which shows various sections for exploring the data. 
 
-![Figure 3:  The Explore page – Faceted Search (left), Visualization (top) and Data Tables (bottom)](images/Fig3.png) 
+![Figure 3:  The Explore page – Faceted Search (left), Visualization (top) and Data Tables (bottom)](https://github.com/CBIIT/c3dc-releases/blob/5e1268f25206489e43c23e47440b768ea89b1156/images/table.png) 
 
 ### Faceted Searching
 On the Explore Page, users can select a subset of the childhood cancer participants by choosing their filtering option from the drop-down lists within four main categories: Demographics, Diagnoses, Survival, and Study. 
