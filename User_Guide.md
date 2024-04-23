@@ -55,7 +55,7 @@ On the Explore Page, users can select a subset of the childhood cancer participa
 ### Charts and Tables
 The faceted search results are automatically updated in the Stats bar, the Visualization and Table sections.
 
-![Figure 5:  Results returned from a faceted search in the Stats bar, six graphs and table section](images/Fig5.png)
+![Figure 5:  Results returned from a faceted search in the Stats bar, six graphs and table section](https://github.com/CBIIT/c3dc-releases/blob/update-figures---release-2/images/explorepage.png)
 
 ## C3DC About Page 
 
