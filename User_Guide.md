@@ -37,7 +37,7 @@ The C3DC Home page allows users to navigate to pages such as Explore and the Abo
 
 Additionally, at the bottom of the Home page, there are link-outs to brief descriptions of key sections of the C3DC website. 
 
-![Figure 2: C3DC Home Page - bottom](images/landing-page.png) 
+![Figure 2: C3DC Home Page - bottom](https://github.com/CBIIT/c3dc-releases/blob/main/images/landing-page.png) 
 
 ## C3DC Explore Page 
 
