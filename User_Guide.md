@@ -50,7 +50,7 @@ On the Explore Page, users can select a subset of the childhood cancer participa
 
 ![Figure 4a: Faceted Search](images/Fig4-A.png)
 
-![Figure 4b: Faceted Search with selections made.](images/Fig4-B_v2.png)
+![Figure 4b: Faceted Search with selections made.](https://github.com/CBIIT/c3dc-releases/blob/5e1268f25206489e43c23e47440b768ea89b1156/images/facet-race.png)
 
 ### Charts and Tables
 The faceted search results are automatically updated in the Stats bar, the Visualization and Table sections.
