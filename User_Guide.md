@@ -37,25 +37,25 @@ The C3DC Home page allows users to navigate to pages such as Explore and the Abo
 
 Additionally, at the bottom of the Home page, there are link-outs to brief descriptions of key sections of the C3DC website. 
 
-![Figure 2: C3DC Home Page - bottom](images/Home_Page_info_block_R2.png) 
+![Figure 2: C3DC Home Page - bottom](images/landing-page.png) 
 
 ## C3DC Explore Page 
 
 Users can navigate to the Explore Page by clicking the link on the Home Page menu bar, which shows various sections for exploring the data. 
 
-![Figure 3:  The Explore page – Faceted Search (left), Visualization (top) and Data Tables (bottom)](images/Fig3.png) 
+![Figure 3:  The Explore page – Faceted Search (left), Visualization (top) and Data Tables (bottom)](images/table.png) 
 
 ### Faceted Searching
 On the Explore Page, users can select a subset of the childhood cancer participants by choosing their filtering option from the drop-down lists within four main categories: Demographics, Diagnoses, Survival, and Study. 
 
 ![Figure 4a: Faceted Search](images/Fig4-A.png)
 
-![Figure 4b: Faceted Search with selections made.](images/Fig4-B_v2.png)
+![Figure 4b: Faceted Search with selections made.](images/facet-race.png)
 
 ### Charts and Tables
 The faceted search results are automatically updated in the Stats bar, the Visualization and Table sections.
 
-![Figure 5:  Results returned from a faceted search in the Stats bar, six graphs and table section](images/Fig5.png)
+![Figure 5:  Results returned from a faceted search in the Stats bar, six graphs and table section](images/release2-facet-table.png)
 
 ## C3DC About Page 
 
