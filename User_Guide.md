@@ -55,10 +55,10 @@ On the Explore Page, users can select a subset of the childhood cancer participa
 ### Charts and Tables
 The faceted search results are automatically updated in the Stats bar, the Visualization and Table sections.
 
-![Figure 5:  Results returned from a faceted search in the Stats bar, six graphs and table section](https://github.com/CBIIT/c3dc-releases/blob/update-figures---release-2/images/explorepage.png){:width="300px" height="200px"}
+img src="(https://github.com/CBIIT/c3dc-releases/blob/update-figures---release-2/images/explorepage.png" alt="Figure 5:  Results returned from a faceted search in the Stats bar, six graphs and table section" width="300px" height="200px">
 
 ## C3DC About Page 
 
 Users can navigate to the About Page by clicking the link on the Home Page menu bar where you will find more information about the content of C3DC. This includes details such as dataset and data model information, as well as links to useful resources.
 
-![Figure 8: About Page - top](images/Fig6.png){:width="300px" height="200px"}
+![Figure 8: About Page - top](images/Fig6.png)
